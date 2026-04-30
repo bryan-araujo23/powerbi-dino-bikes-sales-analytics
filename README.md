@@ -44,17 +44,30 @@ O objetivo é fornecer insights sobre performance comercial, comportamento de cl
 ## 📷 Visão do Dashboard
 
 ### 📊 Resumo Geral
-![Resumo Geral](images/resumo.png)
+![Resumo Geral] 
+
+<p align="center">
+  <img src="images/resumo.png" width="800"/>
+</p>
 
 ---
 
 ### 📦 Detalhes dos Produtos
-![Detalhes dos Produtos](images/produtos.png)
+![Detalhes dos Produtos]
+
+<p align="center">
+  <img src="images/produtos.png" width="800"/>
+</p>
 
 ---
 
 ### 👥 Detalhes dos Clientes
-![Detalhes dos Clientes](images/clientes.png)
+![Detalhes dos Clientes]
+
+<p align="center">
+  <img src="images/clientes.png" width="800"/>
+</p>
+
 
 ---
 
