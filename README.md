@@ -41,11 +41,7 @@ O objetivo é fornecer insights sobre performance comercial, comportamento de cl
 
 ## 📷 Visão do Dashboard
 
-## 📷 Visão do Dashboard
-
 ### 📊 Resumo Geral
-![Resumo Geral] 
-
 <p align="center">
   <img src="images/resumo.png" width="800"/>
 </p>
@@ -53,8 +49,6 @@ O objetivo é fornecer insights sobre performance comercial, comportamento de cl
 ---
 
 ### 📦 Detalhes dos Produtos
-![Detalhes dos Produtos]
-
 <p align="center">
   <img src="images/produtos.png" width="800"/>
 </p>
@@ -62,8 +56,6 @@ O objetivo é fornecer insights sobre performance comercial, comportamento de cl
 ---
 
 ### 👥 Detalhes dos Clientes
-![Detalhes dos Clientes]
-
 <p align="center">
   <img src="images/clientes.png" width="800"/>
 </p>
